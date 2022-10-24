@@ -3,7 +3,7 @@ Thanks for visiting. I'm excited about the projects I'm working on. I'm fortunat
 
 - [X] I just completed a Capstone Project where we built a paper trading simulation application. :chart:
 - [ ] I'm currently working through coding challenges and adding my C# solutions to my repo. :woman_technologist:
-<!-- - [ ] I'm currently learning Java. :coffee: -->
+- [ ] I'm currently working through tech certifications. :book:
 
 ### Fun Fact :rainbow:
 I love journaling, knitting and Star Wars :milky_way:
